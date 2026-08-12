@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZnRsdzE3Y3N0azR2cnJ6NzhwNnd4Y21zbDFjdnRtMnRyeWtlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3P4x5oV6vP13E2c96/giphy.gif" width="150" alt="Coding Octocat" />
+  <img src="https://raw.githubusercontent.com/MartinLasek/MartinLasek/main/assets/hi.gif" width="100" alt="Wave" />
 </p>
 <!--
 **princetandon80/princetandon80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
