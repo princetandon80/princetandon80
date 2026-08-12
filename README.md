@@ -1,20 +1,7 @@
 ## Hi there 👋
-name: Pacman Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkZnRsdzE3Y3N0azR2cnJ6NzhwNnd4Y21zbDFjdnRtMnRyeWtlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3P4x5oV6vP13E2c96/giphy.gif" width="150" alt="Coding Octocat" />
+</p>
 <!--
 **princetandon80/princetandon80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
