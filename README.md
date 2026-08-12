@@ -1,7 +1,20 @@
 ## Hi there 👋
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Mario Theme Divider" />
-</div>
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 <!--
 **princetandon80/princetandon80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
