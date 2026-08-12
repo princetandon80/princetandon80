@@ -1,8 +1,6 @@
 # Hi there 👋
 
-![Mario Running](https://media.giphy.com/media/10m2V4oD6D82J2/giphy.gif)
-
-![Waving Octocat](https://media.giphy.com/media/k3P4x5oV6vP13E2c96/giphy.gif)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="25" height="25" />
 
 <!--
 **princetandon80/princetandon80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
