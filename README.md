@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Play Mario](https://img.shields.io/badge/Play-Super_Mario-red?style=for-the-badge&logo=nintendo-switch)](https://yourusername.github.io/your-mario-repo)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Mario Theme Divider" />
+</div>
 <!--
 **princetandon80/princetandon80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
