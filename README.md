@@ -24,12 +24,46 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 [![GitHub](https://img.shields.io/badge/GitHub-My%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
-## 🐍 My Contributions
-## 🐍 My Contributions
+
 
 ## 🐍 My Contributions
+name: Generate Snake
 
-![Snake animation](https://raw.githubusercontent.com/princetandon80/princetandon80/output/github-contribution-grid-snake.svg)
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: princetandon80
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ⭐ Learning • Building • Improving
 
 ## 👋 Hey!
