@@ -27,8 +27,9 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 ## 🐍 My Contributions
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/princetandon80/princetandon80/output/github-contribution-grid-snake.svg)
+## 🐍 My Contributions
 
+![Snake animation](https://raw.githubusercontent.com/princetandon80/princetandon80/output/github-contribution-grid-snake.svg)
 ⭐ Learning • Building • Improving
 
 ## 👋 Hey!
