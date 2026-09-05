@@ -28,7 +28,9 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 
 ## 🐍 My Contributions
 
- 
+ ## 🐍 My Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/princetandon80/princetandon80/output/github-snake.svg)
 
 ⭐ Learning • Building • Improving
 
