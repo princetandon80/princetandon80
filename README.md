@@ -35,6 +35,3 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things)
 Here are some ideas to get you started:
 
-## 👾 Pac-Man
-
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph.svg)
