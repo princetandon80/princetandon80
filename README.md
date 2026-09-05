@@ -24,6 +24,9 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 [![GitHub](https://img.shields.io/badge/GitHub-My%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
+## 🐍 My Contributions
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ⭐ Learning • Building • Improving
 
