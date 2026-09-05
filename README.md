@@ -12,7 +12,7 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 - 🎓 BCA Student
 - 💻 Learning **Web Development & Software Development**
 - 🐍 Python | C | JavaScript | SQL
-- 🌐 HTML | CSS | React | Flask
+- 🌐 HTML | CSS | React | FastAPI
 - 🧠 Practicing **DSA**
 - 🤖 Exploring **Machine Learning**
 - 🚀 Building projects and improving my skills
