@@ -32,6 +32,4 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 
 ## 👋 Hey!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things)
-Here are some ideas to get you started:
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Full+Stack+Developer;Machine+Learning+Enthusiast;JavaScript+Developer;Building+Projects+and+Learning)
