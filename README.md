@@ -26,7 +26,6 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 ---
 
 
-## 🐍 My Contributions
 
  ## 🐍 My Contributions
 
