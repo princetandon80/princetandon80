@@ -21,7 +21,6 @@ I'm a BCA student who enjoys coding, building projects, and learning new technol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Tandon-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prince-tandon-193ba437b)
 
-[![GitHub](https://img.shields.io/badge/GitHub-My%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
