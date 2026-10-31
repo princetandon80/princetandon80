@@ -4,7 +4,7 @@
 
   <!-- Retro 8-Bit Arcade Typing Font (Press Start 2P) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%3E+PLAYER+1%3A+FULL-STACK+DEVELOPER+%F0%9F%8E%AE;%3E+LEVELING+UP+IN+MACHINE+LEARNING+%F0%9F%A4%96;%3E+CRUSHING+DSA+%26+LEETCODE+QUESTS+%F0%9F%94%A5;%3E+LEARNING+BY+BUILDING+PROJECTS+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%3E+PLAYER+1%3A+LEARNING+FULL-STACK+%F0%9F%8E%AE;%3E+LEVELING+UP+IN+MACHINE+LEARNING+%F0%9F%A4%96;%3E+CRUSHING+DSA+%26+LEETCODE+QUESTS+%F0%9F%94%A5;%3E+LEARNING+BY+BUILDING+PROJECTS+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -109,11 +109,6 @@
   <!-- Row 2: Reliable Top Languages Cards (By Repo & By Commit) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princetandon80&theme=github_dark" height="180" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princetandon80&theme=github_dark" height="180" alt="Top Languages by Commit" />
-
-  <br/><br/>
-
-  <!-- Row 3: Full-Width Tokyo Night Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princetandon80&bg_color=161B22&color=58A6FF&line=D2A8FF&point=39D353&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <p align="center">
