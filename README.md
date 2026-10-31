@@ -1,5 +1,4 @@
 <!-- Animated Cyberpunk/Arcade Header with Orbitron Font -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:161B22,50:1f6feb,100:8957e5&height=200&section=header&text=PRINCE%20TANDON&fontSize=55&fontColor=ffffff&animation=twinkling&fontFamily=Orbitron&stroke=000000&strokeWidth=2" width="100%"/>
 
@@ -30,13 +29,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- About Me Section with Side-by-Side Illustration & Mario -->
+<!-- About Me Section with SUPER COOL Neon Developer Animation -->
 <h2>
   <img src="https://media.giphy.com/media/efVGJ89c9pN4b7aH8X/giphy.gif" width="35" /> 
   𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 // 𝙿𝙻𝙰𝚈𝙴𝚁 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
 </h2>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer Workspace" />
+<!-- Neon Cyberpunk Working Developer GIF -->
+<img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Cool Neon Developer Workspace" />
 
 - 🎓 **BCA Student** passionate about software engineering, system architecture, and building real-world apps.
 - 💻 **Full-Stack Quest:** Crafting interactive UIs with **React** and fast, scalable backend APIs using **FastAPI**.
@@ -50,11 +50,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- Tech Stack & Skills Buttons -->
+<!-- Tech Stack & Skills Buttons with Floating Tech Globe -->
 <h2>⚡ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 & 𝙿𝙾𝚆𝙴𝚁-𝚄𝙿𝚂</h2>
 
-<div align="center">
+<!-- 3D Rotating Tech Earth alongside skills -->
+<img align="right" width="220" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" alt="3D Floating Tech Globe" />
 
+<div>
   <h4>👾 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂</h4>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -70,7 +72,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
   </p>
 
   <h4>🤖 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶 & 𝙳𝙰𝚃𝙰</h4>
@@ -90,8 +91,9 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/DSA_%26_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="DSA" />
   </p>
-
 </div>
+
+<br clear="both"/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
