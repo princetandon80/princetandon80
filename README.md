@@ -28,15 +28,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- About Me Section with Original Working Developer -->
+<!-- About Me Section with Isometric Developer -->
 <h2>
   <img src="https://media.giphy.com/media/efVGJ89c9pN4b7aH8X/giphy.gif" width="35" /> 
   𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 // 𝙿𝙻𝙰𝚈𝙴𝚁 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 
   <img src="https://media.giphy.com/media/xUPGcgkZq8rWbmbZle/giphy.gif" width="35" />
 </h2>
 
-<!-- Original Developer Desk GIF -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Developer Workspace" />
+<!-- Isometric Workspace Illustration -->
+<img align="right" width="400" src="image_f262a8.png" alt="Isometric Developer Workspace" />
 
 - 🎓 **BCA Student** passionate about software engineering, system architecture, and building real-world apps.
 - 💻 **Full-Stack Quest:** Crafting interactive UIs with **React** and fast, scalable backend APIs using **FastAPI**.
@@ -50,7 +50,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- Tech Stack & Skills Buttons with Neon Developer -->
+<!-- Tech Stack & Skills Buttons -->
 <h2>
   ⚡ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 & 𝙿𝙾𝚆𝙴𝚁-𝚄𝙿𝚂 
   <img src="https://media.giphy.com/media/O8ZHE5GefZAli/giphy.gif" width="35" />
@@ -90,6 +90,7 @@
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Visual_Paradigm-002A5E?style=for-the-badge&logoColor=white" alt="Visual Paradigm" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -135,7 +136,7 @@
   <br/>
   <h3>⭐ 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶 • 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 • 𝙸𝙼𝙿𝚁𝙾𝚅𝙸𝙽𝙶 ⭐</h3>
   <br/>
-  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
 </div>
 
-<!-- Animated Footer -->
+<!-- Animated Cyberpunk Footer matching the Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:161B22,50:1f6feb,100:8957e5&height=150&section=footer" width="100%"/>
