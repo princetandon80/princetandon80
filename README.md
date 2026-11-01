@@ -11,7 +11,7 @@
 
   <!-- Profile Visitors & Social Connect Buttons -->
   <p align="center">
-    img
+    
     <a href="https://github.com/princetandon80">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
