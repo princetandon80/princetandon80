@@ -11,7 +11,7 @@
 
   <!-- Profile Visitors & Social Connect Buttons -->
 <p align="center">
-  Connect with me: <br><br>
+  <img src="https://media.giphy.com/media/xT0xeQ1ZUQ0lvz2HQI/giphy.gif" width="20" /> Connect with me: <img src="https://media.giphy.com/media/xT0xeQ1ZUQ0lvz2HQI/giphy.gif" width="20" /><br><br>
   <a href="https://github.com/princetandon80">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -31,7 +31,8 @@
 <!-- About Me Section with Original Working Developer -->
 <h2>
   <img src="https://media.giphy.com/media/efVGJ89c9pN4b7aH8X/giphy.gif" width="35" /> 
-  𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 // 𝙿𝙻𝙰𝚈𝙴𝚁 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
+  𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 // 𝙿𝙻𝙰𝚈𝙴𝚁 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 
+  <img src="https://media.giphy.com/media/xUPGcgkZq8rWbmbZle/giphy.gif" width="35" />
 </h2>
 
 <!-- Original Developer Desk GIF -->
@@ -50,7 +51,10 @@
 </p>
 
 <!-- Tech Stack & Skills Buttons with Neon Developer -->
-<h2>⚡ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 & 𝙿𝙾𝚆𝙴𝚁-𝚄𝙿𝚂</h2>
+<h2>
+  ⚡ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 & 𝙿𝙾𝚆𝙴𝚁-𝚄𝙿𝚂 
+  <img src="https://media.giphy.com/media/O8ZHE5GefZAli/giphy.gif" width="35" />
+</h2>
 
 <!-- Cool Neon Cyberpunk Developer GIF -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Cool Neon Developer Workspace" />
@@ -100,7 +104,10 @@
 </p>
 
 <!-- FIXED GitHub Analytics & Streak Section (100% Working Servers) -->
-<h2>📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝙰𝙽𝙰𝙻𝚈𝚃𝙸𝙲𝚂 & 𝚂𝚃𝚁𝙴𝙰𝙺</h2>
+<h2>
+  📊 𝙶𝙸𝚃𝙷𝚄𝙱 𝙰𝙽𝙰𝙻𝚈𝚃𝙸𝙲𝚂 & 𝚂𝚃𝚁𝙴𝙰𝙺 
+  <img src="https://media.giphy.com/media/fBGyN8EikdCFi/giphy.gif" width="30" />
+</h2>
 
 <div align="center">
   <!-- Row 1: Your Working Streak Card + Reliable GitHub Summary Card -->
@@ -124,9 +131,11 @@
 <div align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/princetandon80/princetandon80/output/github-snake.svg" width="100%" />
   <br/><br/>
-  <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="70" alt="Mario Running" />
+  <img src="https://media.giphy.com/media/12QMzVeF4QsqTC/giphy.gif" width="70" alt="Mario Running" /> &nbsp; &nbsp; <img src="https://media.giphy.com/media/xUPGcyUvgbFm9qEqM8/giphy.gif" width="60" alt="Piranha Plant" />
   <br/>
   <h3>⭐ 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶 • 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 • 𝙸𝙼𝙿𝚁𝙾𝚅𝙸𝙽𝙶 ⭐</h3>
+  <br/>
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
 </div>
 
 <!-- Animated Footer -->
