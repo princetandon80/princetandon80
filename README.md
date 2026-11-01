@@ -135,7 +135,8 @@
   <br/>
   <h3>⭐ 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶 • 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 • 𝙸𝙼𝙿𝚁𝙾𝚅𝙸𝙽𝙶 ⭐</h3>
   <br/>
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" alt="Nyan Cat" />
 </div>
 
-<!-- Animated Cyberpunk Footer matching the Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:161B22,50:1f6feb,100:8957e5&height=150&section=footer" width="100%"/>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:1f6feb,100:8957e5&height=120&section=footer" width="100%"/>
